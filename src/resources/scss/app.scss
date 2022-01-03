@@ -4,3 +4,14 @@ h1 {
     color: $red-color;
     letter-spacing: 4px;
 }
+
+.app {
+    position: relative;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
